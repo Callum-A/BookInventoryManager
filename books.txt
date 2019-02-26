@@ -1,0 +1,15 @@
+"Pride and Prejudice","Jane Austen",1813,226,"978-1503290563",1000,9.50
+"Gulliver's Travels","Johnathan Swift",2012,350,"978-0141198989",750,13.99
+"Jane Eyre","Charlotte Bronte",2006,624,"978-0141441146",900,5.99
+"War and Peace","Tolstoy",2001,1023,"978-1853260629",2000,5.00
+"David Copperfield","Charles Dickens",2012,1008,"978-0141199160",1500,6.99
+"Vanity Fair","William Makepeace Thackeray",2012,928,"978-0141199641",750,7.50
+"Madame Bovary","Gustave Flaubert",2012,384,"978-0099573074",3000,2.50
+"The Portrait of a Lady","Henry James",2009,640,"978-0199217946",2500,6.99
+"Ulysses","James Joyce",2000,1040,"978-0141182803",1750,9.99
+"For Whom the Bell Tolls","Ernest Hemingway",1993,496,"978-0099908609",500,7.99
+"Gone with the Wind","Margaret Mitchell",2014,992,"978-1447264538",750,10.99
+"The Lion, the Witch and the Wardrobe","C.S. Lewis",2009,208,"978-0007323128",4000,5.00
+"The Lord of the Rings","J.R.R. Tolkien",1997,448,"978-0261103573",2000,8.99
+"Treasure Island","Robert Louis Stevenson",1992,320,"978-1857159097",3500,12.99
+"Frankenstein","Mary Shelley",2008,144,"978-1906332150",1000,9.99
